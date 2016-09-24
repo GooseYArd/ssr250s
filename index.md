@@ -69,7 +69,7 @@ Carburetor
 ==========
 
 The NC250 carburetor is manufactured by
-[Sunworld Moto](http://www.sunworld.com.tw/en/main/)">. Mine has
+[Sunworld Moto](http://www.sunworld.com.tw/en/main/). Mine has
 the marking *SWR H34AS4-1514 PHB E34*.
 
 [![Picture of SWR H34AS4-1514 PHB E34 Carburetor](small_carb.jpg)](carb.jpg)
@@ -181,5 +181,5 @@ Useful Links
 
 * [Chinese Thumpers thread at advrider.com]("http://advrider.com/index.php?threads/chinese-thumpers.1142065/")
 * [TBolt USA's SSR250S Page](http://ssr250.com/)
-
+* [SR250S thread at Thumpertalk](http://www.thumpertalk.com/topic/1033669-ssr-250r-full-size-off-road-modern-style-4-valve-tboltusa/page-4)
 

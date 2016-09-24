@@ -1,4 +1,4 @@
 all: index.html
 
-%.html: %.md
-	pandoc -s $< -o $@
+index.html: index.md header.html
+	pandoc -s $< -o $@ -H header.html
