@@ -1,6 +1,7 @@
 % GooseYArd's SSR SR250S/Asiawing NC250 Information Page
 % gooseyard@gmail.com
-% July 17, 2016
+% Last Update: Sat Sep 24 17:22:45 UTC 2016
+
 
 
 A while back, I bought one of my kids an SSR SR70C dirt bike. I was
@@ -12,8 +13,7 @@ SSR's larger machine, the SR250C.
 
 Information about these bikes is somewhat hard to come by;
 despite their low price, and although the pit bikes seem to sell
-pretty well, I'm the only person I know who actually owns an
-SR250S.
+pretty well, I'm only spoken to a couple of other SR250S owners.
 
 I expect to get a lot details wrong on this page and I count on
 readers who know more than I do to set me straight. Please, if you
