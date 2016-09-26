@@ -1,6 +1,7 @@
 % GooseYArd's SSR SR250S/Asiawing NC250 Information Page
 % gooseyard@gmail.com
-% Last Update: Mon Sep 26 18:51:12 UTC 2016
+% Last Update: Mon Sep 26 20:02:17 UTC 2016
+
 
 
 A while back, I bought one of my kids an SSR SR70C dirt bike. I was
@@ -169,11 +170,22 @@ that my distributor would handle parts for it. I spoke to a
 representative at SSR, who informed me that a jet kit for a CRF250X
 would fit the SWR carb, but I have yet to try this.
 
+
 Carb Settings
 -------------
 
 From the dealer, the factory setting for the air screw was the
 standard 2 turns.
+
+The main jet is marked "140", and looks to me like Honda Part no
+99101-357-1400, which a Keihin main jet.
+
+[![Picture of SWR H34AS4-1514 PHB E34 Main Jet](small_main_jet.jpg)](main_jet.jpg)
+
+I have not yet removed and measured the needle. I'm hoping that the
+Honda needle removal tool (89217-KRN-000) will work with this carb,
+but can't confirm yet.
+
 
 Fuel
 ----
