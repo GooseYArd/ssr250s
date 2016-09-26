@@ -1,7 +1,6 @@
 % GooseYArd's SSR SR250S/Asiawing NC250 Information Page
 % gooseyard@gmail.com
-% Last Update: Sat Sep 24 17:22:45 UTC 2016
-
+% Last Update: Mon Sep 26 18:51:12 UTC 2016
 
 
 A while back, I bought one of my kids an SSR SR70C dirt bike. I was
@@ -24,7 +23,7 @@ Overview
 ========
 
 The NC250 is manufactured by
-[Shandong Asiawing Motors Co.,Ltd.](http://asiawing.com/) (their
+[Shandong Asiawing Motors Co.,Ltd.](https://www.facebook.com/asiawingmotors/?fref=ts) (their
 website appears to be down at the moment I am writing this). It is
 distributed to other countries around the world by other importers.
 In the United States, the bike is imported by SSR Motorsports and is
@@ -33,8 +32,65 @@ known as the SR250S.
 In Europe, [Borossi](http://www.borossi.com/Asiawing-Enduro-SuperMoto/)
 distributes the bikes, now under the Asiawing brand.
 
+In Australia, the bike is distributed by [Crossfire](http://crossfiremotorcycles.com/) as the [XZ250RR](http://crossfiremotorcycles.com/product/xz250rr/).
+
 The SR250S is patterned on the 2007 model year CRF250X. In most
 cases, parts for that bike will fit the SR250S.
+
+
+Parts Compatibility
+===================
+
+Crossfire, who for some time imported the NC250 into Australia as the
+XZ250R and XZ250RR, published
+[this PDF](XZ250RR_Compatible_Parts_With_Honda_CRF250_and_Honda_CRF450.pdf),
+which lists parts compatibility between their bike and the CRF
+250/450. I have reformatted the table for the browser and removed the
+untranslated chinese.
+
+A [parts diagram](XZ250RPartsManual.pdf) is also available.
+
+I have not verified any of this information, so use at your own risk.
+
+|No|      English Name                             | Material Spec |   Commonality |
+|--|:---------------------------------------------:|--------------:|--------------:|
+|1 | plastic body                                  |PP             |All the plastic bodys are saame except front side fairing and number plate,but the fixing hole is common use with Honda.|
+|2 | front forks                                   | 53x58.5-910   |The structure is same as CRF450 53x58.5-930, but different in length.|
+|3 | rear shock                                    | 500           | same as CRF 250|
+|4 | linkage, suspension                           | alloy,forged | same as CRF 250|
+|5 | linkage, swing arm                            | alloy,forged,cast steel |same as CRF 250|
+|6 | guide, chain                                  | PPU |same as CRF 250|
+|7 | chain guide insert, rubber                    | PPU |same as CRF 450|
+|8 | plate, chain guide                            | aluminium sheet mould| same as CRF 450|
+|9 | brake assy,front and rear                     ||same as CRF 450|
+|10| seat                                          || same as CRF 250|
+|11| guard，disc brake, front (protector)          |PP| same as CRF 250|
+|12| guard，disc brake, rear (protector)           |PP| same as CRF 250|
+|13| guard, caliper, brake, rear (protector)       |PP| same as CRF 250|
+|14| exhaust pipe and muffler                      |aluminium |same as CRF 250|
+|15| element, air filter                           | Foam | same as CRF 250|
+|16| filter net,air filter                         | stainless steel net| same as CRF 250|
+|17| tapered roller bearing,steering stem          |320/28| same as CRF 250|
+|18| oil seal, steering stem                       ||same as CRF 250|
+|19| holder,fuel tank bandage                      | Rubber and stainless steel| same as CRF 250|
+|20| oil seal,middle bolt                          |37-22-4| same as CRF 250|
+|21| plane bearing,middle bolt                     |36-22-6| same as CRF 250|
+|22| outer bearing,middle bolt                     | 17x30x6 | same as CRF 250|
+|23| guard ,air filter,rubber                      |rubber | same as CRF 250|
+|24| plate, duct fitting,air filter                |iron sheet mould| same as CRF 250|
+|25| holder, filter element,outer and inner        | PA nylon |same as CRF 250|
+|26| sub-frame                                     | steel |same as CRF 250|
+|27| hub protector, front                          | PE | same as CRF 250|
+|28| guard, fork,(protector)                       | PP |same as CRF 250|
+|29| clutch lever with carburetor ventilate switch || same as CRF 250|
+|30| anti-hot rubber,rear side fairing             | thermostability silica gel| same as CRF 250|
+|31| fixed nut,rear fender                         |PE fairing and purposemade nut| same as CRF 250|
+|32| tensioner                                     |PPU    |same as CRF 450 |
+|33| bracket, brake hose,                          |6063 alloy| same as CRF 250 |
+|34| spacer，front fender                          |steel step space| same as CRF 250 |
+|35| spcacer,fuel tank fairing                     |steel step space| same as CRF 250 |
+|36| bolt,seat                                     |steel step space| same as CRF 250 |
+
 
 
 Engine
@@ -49,6 +105,9 @@ motorcycles and scooters, perhaps most notably the Zongshen RX-3
 adventure-touring bike, which is distributed in the United States
 by the [California Scooter Company](http://www.cscmotorcycles.com/)
 
+The ZS177M is definitely not a clone of the CRF250 engine, at least
+not when it comes to service parts like filters.
+
 
 ZS177MM Parts
 -------------
@@ -57,6 +116,8 @@ When searching online for SR250S parts, it is helpful to use
 "NC250" rather than "SR250S", since the bike is called NC250
 everywhere except the US.
 
+Crossfire published this [parts diagram](XZ250RR-Engine-Parts.pdf) for the ZS177MM.
+
 Parts for this motor are plentiful and relatively cheap if you don't
 mind having them shipped from abroad.
 
@@ -64,6 +125,33 @@ mind having them shipped from abroad.
 
 Another option is to purchase parts from CSC for the RX-3:
 <http://www.cscmotorcycles.com/OEM-ENGINE-COMPONENTS-s/239.htm>
+
+Oil Filter
+----------
+
+The oil filter included with the bike is a serviceable screen-type
+filter, not a pleated paper filter. When changing the engine oil, you
+can remove the filter, slide the core out of the screen, and use a
+solvent and bristle brush to clean the screen. I used compressed air
+to blow out any bits from the screen.
+
+Although I neglected to get a photo of it, I gave the bike an initial
+oil change after about 6-8 hours of riding, since many forum trolls
+had claimed the filter would be full of shavings as the engine
+inevitably destroyed itself after a few hours of use. I found
+virtually nothing, a few very fine bits (which I think might've been
+from the filter screen itself), and a little bit of ferrous gunk on
+the oil drain plug magnet, about what I've seen on any brand new
+motorcycle.
+
+I'm going to stick with the serviceable filter for now, although I
+think that CSC RX-3 pleated paper filters will fit this motor. I will
+be interested to hear if anyone tries it.
+
+By the way, my oil drain plug was sealed with gray hi-temp RTV rather
+than a crush washer, although I used a crush washer instead of more
+RTV when I made the first oil change.
+
 
 Carburetor
 ==========
@@ -90,19 +178,8 @@ standard 2 turns.
 Fuel
 ----
 
-When I got the bike, it had a full tank of 87 octane pump gas. The
-bike ran terribly. When hot, it would not idle with two turns on the
-air screw. If I adjusted the air screw such that the bike would idle
-when hot, it would not start cold, and ran very roughly.  Starting the
-bike on 87 octane gas was also frustrating, requiring 8 or 10 seconds
-to start.
+The Zongshen and Asiawing manuals recommend 91 or higher octane fuel. I've been using 93 so far.
 
-After studying the Zongshen and Asiawing manuals, it was clear that I
-should be using higher octane fuel. After draining and refilling the
-tank with 93 octane pump gas and setting the air screw back to two
-turns, the bike starts immediately and runs flawlessly. I didn't
-notice audible pinging with the 87 octane gas, but I did get a lot of
-stuttering above 1/4 throttle, which I don't get with 93.
 
 
 Exhaust
@@ -111,6 +188,12 @@ Exhaust
 The stock exhaust on the NC250 has the appearance of an aftermarket
 pipe, is fairly light (TKTKg), but lacks an internal spark
 arrestor.
+
+I've ordered a
+[Lexx Slip-on Exhaust](http://lexx.com.au/honda/exhaust-pipe-slip-on-honda-crf250r-04-05-crf250x-04-11-crf-250)
+but haven't received it yet, I'll update the site when I'm sure that
+it fits correctly. Several people recommended the FMF PowerCore 4, but
+it's about 100$ more than the Lexx.
 
 
 Suspension
@@ -168,6 +251,23 @@ this measurement let me know, I'll take it off and get a more
 accurate measure.
 
 
+Plastics
+========
+
+I haven't determined whether the SR250S plastics are a match with the
+CRF, but I've got a couple of photos that might prove useful:
+
+[![Picture of the SSR SR250S Front Fender](small_front_fender.jpg)](front_fender.jpg)
+
+[![Picture of the SSR SR250S Side Tank Plastic](small_side_plastic.jpg)](side_plastic.jpg)
+
+
+Wiring Diagram
+==============
+
+Available [here](XZ250R_Wiring_Schematic.pdf)
+
+
 Other Parts
 ===========
 
@@ -179,7 +279,11 @@ to buy from them when I can.
 Useful Links
 ============
 
+* [Cyclemax USA](http://www.cyclemaxusa.com/) my SSR dealer in Gaithersburg, MD. Really nice Folks.
 * [Chinese Thumpers thread at advrider.com]("http://advrider.com/index.php?threads/chinese-thumpers.1142065/")
 * [TBolt USA's SSR250S Page](http://ssr250.com/)
 * [SR250S thread at Thumpertalk](http://www.thumpertalk.com/topic/1033669-ssr-250r-full-size-off-road-modern-style-4-valve-tboltusa/page-4)
-
+* [Motos of Michigan Blog](https://motosofmichigan.wordpress.com/)
+* [DC MX Works of Baxter, KY](https://www.facebook.com/dcmxworks/), another SSR dealer who races his SR250
+* [SR250S Page at SSR's Website](http://www.ssrmotorsports.com/store/dirtbike/sr250s.php)
+* [Review of the XZ250RR](http://crossfiremotorcycles.com/crossfire-xz250rr-review-adb-magazine/)
