@@ -12,7 +12,7 @@ SSR's larger machine, the SR250C.
 
 Information about these bikes is somewhat hard to come by;
 despite their low price, and although the pit bikes seem to sell
-pretty well, I'm only spoken to a couple of other SR250S owners.
+pretty well, I've only spoken to a couple of other SR250S owners.
 
 I expect to get a lot details wrong on this page and I count on
 readers who know more than I do to set me straight. Please, if you
