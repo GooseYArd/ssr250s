@@ -1,6 +1,7 @@
 % GooseYArd's SSR SR250S/Asiawing NC250 Information Page
 % gooseyard@gmail.com
-% Last Update: Tue Sep 27 16:52:48 UTC 2016
+% Last Update: Wed Sep 28 13:46:01 UTC 2016
+
 
 
 A while back, I bought one of my kids an SSR SR70C dirt bike. I was
@@ -235,9 +236,13 @@ it's about 100$ more than the Lexx.
 
 Suspension
 ==========
+
 According to Borossi, rear suspension is "rear pergressive FastAce
 Performance mono shock absorber with spring preload and rebound and
-compression damping" (sic).
+compression damping" (sic). The shock didn't have a manufacturer's
+mark that I could find, and I'm not sure whether the FastAce shock is
+a Borossi-specific upgrade. On the SSR bike at least, the shock
+appears to be patterned on a KYB.
 
 I took my rear shock to my local RaceTech dealer,
 [MRP Motorsports](https://www.mrpmotorsports.com/), and had the
