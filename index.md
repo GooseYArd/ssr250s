@@ -1,7 +1,6 @@
 % GooseYArd's SSR SR250S/Asiawing NC250 Information Page
 % gooseyard@gmail.com
-% Last Update: Mon Sep 26 20:02:17 UTC 2016
-
+% Last Update: Tue Sep 27 16:52:48 UTC 2016
 
 
 A while back, I bought one of my kids an SSR SR70C dirt bike. I was
@@ -187,9 +186,30 @@ The main jet is marked "140", and looks to me like Honda Part no
 
 [![Picture of SWR H34AS4-1514 PHB E34 Main Jet](small_main_jet.jpg)](main_jet.jpg)
 
+The pilot jet is marked "45", and appears to be a standard Keihin PWK/CVK/PE style.
+
+[![Picture of SWR H34AS4-1514 PHB E34 Pilot Jet](small_pilot_jet.jpg)](pilot_jet.jpg)
+
 I have not yet removed and measured the needle. I'm hoping that the
 Honda needle removal tool (89217-KRN-000) will work with this carb,
 but can't confirm yet.
+
+The main jet can be removed with a 6mm driver through the portal on
+the bottom of the float bowl after unscrewing the plug. On my carb,
+the emulsion tube was torqued slightly less than the jet, so the tube
+and jet came out together, no big whoop.
+
+The pilot jet is situated alongside the main jet, but I couldn't get
+to it through the portal, and had to remove the bowl.
+
+[![Picture of SWR H34AS4-1514 PHB E34 floats](small_carb_underside.jpg)](carb_underside.jpg)
+
+A word of warning, there's a small breather tube pressed into the bowl
+at an angle, which will catch the left float if you pull the bowl
+straight down when removing it, which can bend the float. I suggest
+removing the small vinyl hose from the bowl first, then jiggle it to
+make the tube clear the float.
+
 
 
 Fuel
