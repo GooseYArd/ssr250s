@@ -133,6 +133,8 @@ Another option is to purchase parts from CSC for the RX-3:
 Oil Filter
 ----------
 
+The ZS177MM does not use the same oil filter type as the CRF250.
+
 The oil filter included with the bike is a serviceable screen-type
 filter, not a pleated paper filter. When changing the engine oil, you
 can remove the filter, slide the core out of the screen, and use a
