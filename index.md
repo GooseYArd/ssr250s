@@ -281,6 +281,12 @@ The stock handle bar tapers from 1.125" to 0.875" (1 1/8 to 7/8)
 I'm tall with a long torso so I like bar risers if I'm standing on the
 pegs a lot. I think I'll add some to this bike, but haven't yet.
 
+I tried adding a set of 2" Rox Risers, but using them would require
+lengthening the throttle cable. Also it is virtually impossible to
+tighten both handlebar bolts while the Rox Risers are installed. A
+ball-end hex wrench may be able to do the job, but since the throttle
+cable is too short anyway, I'm not going to bother.
+
 
 Shifter
 =======
