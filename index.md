@@ -9,7 +9,7 @@
 A while back, I bought one of my kids an SSR SR70C dirt bike. I was
 so impressed with the little bike that later, when I was looking
 for a used 250 to ride with my kids, I decided to take a chance on
-SSR's larger machine, the SR250C.
+SSR's larger machine, the SR250S.
 
 [![Picture of the SSR SR250S](small_bike.jpg)](bike.jpg)
 
