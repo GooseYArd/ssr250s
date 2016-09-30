@@ -1,6 +1,6 @@
 % GooseYArd's SSR SR250S/Asiawing NC250 Information Page
 % gooseyard@gmail.com
-% Last Update: Wed Sep 28 13:46:01 UTC 2016
+% Last Update: Fri Sep 30 19:41:58 UTC 2016
 
 
 [Change Log](changelog.html)
