@@ -229,11 +229,13 @@ The stock exhaust on the NC250 has the appearance of an aftermarket
 pipe, is fairly light (TKTKg), but lacks an internal spark
 arrestor.
 
-I've ordered a
-[Lexx Slip-on Exhaust](http://lexx.com.au/honda/exhaust-pipe-slip-on-honda-crf250r-04-05-crf250x-04-11-crf-250)
-but haven't received it yet, I'll update the site when I'm sure that
-it fits correctly. Several people recommended the FMF PowerCore 4, but
-it's about 100$ more than the Lexx.
+I ordered a
+[Lexx Slip-on Exhaust](http://lexx.com.au/honda/exhaust-pipe-slip-on-honda-crf250r-04-05-crf250x-04-11-crf-250),
+but I can confirm that it is not compatible with the SR250S. In
+addition to being the wrong diameter pipe, the mid-pipe is the wrong
+length, has the wrong bend, and the mounting bolt carrier is in the
+wrong location.
+
 
 
 Suspension
