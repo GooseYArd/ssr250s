@@ -3,6 +3,8 @@
 % Last Update: Wed Sep 28 13:46:01 UTC 2016
 
 
+[Change Log](changelog.html)
+
 
 A while back, I bought one of my kids an SSR SR70C dirt bike. I was
 so impressed with the little bike that later, when I was looking
