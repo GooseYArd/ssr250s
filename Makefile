@@ -1,7 +1,7 @@
-all: index.html
+all: index.html changelog.html
 
 index.html: index.md header.html
-	pandoc -s $< -o $@ -H header.html
+	 sed "s/@@TIMESTAMP@@/$$(date)/" $< | pandoc -s -o $@ -H header.html
 
 changelog.md: index.md
 	$(HOME)/gitchangelog/bin/gitchangelog > $@

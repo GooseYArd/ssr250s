@@ -4,6 +4,16 @@ Changelog
 %%version%% (unreleased)
 ------------------------
 
+- Add changelog. [Andy Bailey]
+
+- Mention that rox risers don't fit. [Andy Bailey]
+
+- Note that CRF250X exhausts do not fit. [Andy Bailey]
+
+- Fix a typo (Thanks Brian C.) [Andy Bailey]
+
+- Add link to Change Log. [Andy Bailey]
+
 - Mention uncertainty about shock manufacturer. [Andy Bailey]
 
 - Typo. [Andy Bailey]
