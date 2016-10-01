@@ -226,7 +226,7 @@ Exhaust
 =======
 
 The stock exhaust on the NC250 has the appearance of an aftermarket
-pipe, is fairly light (TKTKg), but lacks an internal spark
+pipe, is fairly light (4.8lb/2.2kg), but lacks an internal spark
 arrestor.
 
 I ordered a
