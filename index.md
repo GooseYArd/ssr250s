@@ -162,21 +162,44 @@ The NC250 carburetor is manufactured by
 [Sunworld Moto](http://www.sunworld.com.tw/en/main/). Mine has
 the marking *SWR H34AS4-1514 PHB E34*.
 
-[![Picture of SWR H34AS4-1514 PHB E34 Carburetor](small_carb.jpg)](carb.jpg)
+[![Picture of SWR H34AS4-1514 PHB E34 Carburetor](small_carb_adjustments_labeled.jpg)](carb_adjustments_labeled.jpg)
 
-I sent an inquiry to a representative at Sunworld Moto about the
-availability of a jet kit for this carb. Sunworld replied
-immediately that this carb is made exclusively for the NC250, and
-that my distributor would handle parts for it. I spoke to a
-representative at SSR, who informed me that a jet kit for a CRF250X
-would fit the SWR carb, but I have yet to try this.
+The carb is pretty similar to a Keihin PWK, which has a flat slide and
+a venting arrangement similar to the Keihin QuadVent carbs.
+
+## Idle Adjustment
+
+The pilot circuit on this carb uses an airscrew rather than a fuel
+screw. From the dealer, the factory setting for the air screw was 2.5 turns.
+
+The effect of adjusting the air screw is not instantaneous, in my
+experience I need to work in quarter-turn increments and give the
+system about ten to twelve seconds to catch up with the change in air.
 
 
-Carb Settings
--------------
+## Needle
 
-From the dealer, the factory setting for the air screw was the
-standard 2 turns.
+[![Picture of SWR H34AS4-1514 PHB E34 N68E Needle](small_needle.jpg)](needle.jpg)
+
+The needle is marked N68E and appears to be a standard PWK type. The
+clip is in position 2 from the factory.
+
+The easiest way to remove the needle is to unbolt the petcock, remove
+the carb fuel line, remove the tank, and then unscrew the plate where
+the throttle cable enters the carb body. I think a patient person could
+probably do it without removing the tank, but the tank is so simple to
+remove that I don't think it's worth it.
+
+[![Picture of SWR H34AS4-1514 PHB E34 with slide cover off](small_carb_top.jpg)](carb_top.jpg)
+
+The needle can be removed from the slide once the cable is
+unhooked. The SWR has a clever window in the slide that makes hooking
+the ball-end easier.
+
+[![Picture of SWR H34AS4-1514 PHB E34 slide](small_carb_slide.jpg)](carb_slide.jpg)
+
+
+## Main and Pilot Jets
 
 The main jet is marked "140", and looks to me like Honda Part no
 99101-357-1400, which a Keihin main jet.
@@ -187,14 +210,21 @@ The pilot jet is marked "45", and appears to be a standard Keihin PWK/CVK/PE sty
 
 [![Picture of SWR H34AS4-1514 PHB E34 Pilot Jet](small_pilot_jet.jpg)](pilot_jet.jpg)
 
-I have not yet removed and measured the needle. I'm hoping that the
-Honda needle removal tool (89217-KRN-000) will work with this carb,
-but can't confirm yet.
-
 The main jet can be removed with a 6mm driver through the portal on
-the bottom of the float bowl after unscrewing the plug. On my carb,
-the emulsion tube was torqued slightly less than the jet, so the tube
-and jet came out together, no big whoop.
+the bottom of the float bowl after unscrewing the plug.
+
+To get the at the main and pilot jets:
+
+* Shut off the fuel petcock
+* Pull the fuel line off the right side of the petcock. About 1-2 tablespoons of fuel will come out.
+* Loosen the hose clamps fore and aft of the carb body
+* Twist the carb clockwise, being mindful of the throttle cable
+* Unscrew the plug on the bottom of the bowl. About 2-4 tablespoons of fuel are waiting for you in there.
+
+The main jet is the smaller 6mm brass hex bit, which is screwed into
+the emulsion tube. On my carb, the emulsion tube was torqued slightly
+less than the jet, so the tube and jet came out together, no big
+whoop.
 
 The pilot jet is situated alongside the main jet, but I couldn't get
 to it through the portal, and had to remove the bowl.
@@ -207,10 +237,29 @@ straight down when removing it, which can bend the float. I suggest
 removing the small vinyl hose from the bowl first, then jiggle it to
 make the tube clear the float.
 
+The main jet on my bike seems fine, but I did have some trouble with
+idle when hot and between closed and 1/4 throttle, so I replaced the
+45 pilot jet with a 48 and moved the needle clip from the second to
+third position. With the 45 pilot, the fastest idle I got was with the
+airscrew almost all the way out, with the 48 it's about eactly 2.5
+turns. Moving the clip to position three the motor feels like it pulls
+better at zero to quarter throttle, but I haven't ridden it much yet
+with this setting. I think the stock jetting is probably close enough
+to right that a minor pilot increase and the clip change from 2-3 may
+be all I need.
+
+Needles and jets (both main and pilot) are readily available on ebay
+very inexpensively. I got a pack of
+[10 pilot jets for 8 or 10 bucks](http://www.ebay.com/itm/252192110975?_trksid=p2060353.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT),
+and there are packs of 10 needles for 15-20$. Because of this, I would
+avoid buying a CRF250X jet kit. Although I suspect that the the
+needles and main jets will fit, I don't know (and most of the kits I
+looked at don't tell you) specifically what size jets and needles are
+included. The engine and carb in the SR250S are not similar to the CRF
+other than both using Keihin carbs.
 
 
-Fuel
-----
+## Fuel
 
 The Zongshen and Asiawing manuals recommend 91 or higher octane fuel. I've been using 93 so far.
 
