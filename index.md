@@ -21,8 +21,7 @@ readers who know more than I do to set me straight. Please, if you
 have corrections or additional information for the page, email it to
 me at [gooseyard@gmail.com](mailto:gooseyard@gmail.com "gooseyard@gmail.com").
 
-Overview
-========
+# Overview
 
 The NC250 is manufactured by
 [Shandong Asiawing Motors Co.,Ltd.](https://www.facebook.com/asiawingmotors/?fref=ts) (their
@@ -43,8 +42,7 @@ The SR250S is patterned on the 2007 model year CRF250X. In most
 cases, parts for that bike will fit the SR250S.
 
 
-Parts Compatibility
-===================
+# Parts Compatibility
 
 Crossfire, who for some time imported the NC250 into Australia as the
 XZ250R and XZ250RR, published
@@ -98,8 +96,8 @@ I have not verified any of this information, so use at your own risk.
 
 
 
-Engine
-======
+# Engine
+
 
 The NC250/SR250S engine is a
 [Zongshen ZS177MM](http://www.zse.cc/productsdetail.aspx?ProductsCateId=43&ProductsID=386),
@@ -114,8 +112,7 @@ The ZS177M is definitely not a clone of the CRF250 engine, at least
 not when it comes to service parts like filters.
 
 
-ZS177MM Parts
--------------
+## ZS177MM Parts
 
 When searching online for SR250S parts, it is helpful to use
 "NC250" rather than "SR250S", since the bike is called NC250
@@ -131,8 +128,7 @@ mind having them shipped from abroad.
 Another option is to purchase parts from CSC for the RX-3:
 <http://www.cscmotorcycles.com/OEM-ENGINE-COMPONENTS-s/239.htm>
 
-Oil Filter
-----------
+## Oil Filter
 
 The ZS177MM does not use the same oil filter type as the CRF250.
 
@@ -160,8 +156,7 @@ than a crush washer, although I used a crush washer instead of more
 RTV when I made the first oil change.
 
 
-Carburetor
-==========
+# Carburetor
 
 The NC250 carburetor is manufactured by
 [Sunworld Moto](http://www.sunworld.com.tw/en/main/). Mine has
@@ -221,8 +216,7 @@ The Zongshen and Asiawing manuals recommend 91 or higher octane fuel. I've been 
 
 
 
-Exhaust
-=======
+# Exhaust
 
 The stock exhaust on the NC250 has the appearance of an aftermarket
 pipe, is fairly light (4.8lb/2.2kg), but lacks an internal spark
@@ -237,8 +231,7 @@ wrong location.
 
 
 
-Suspension
-==========
+# Suspension
 
 According to Borossi, rear suspension is "rear pergressive FastAce
 Performance mono shock absorber with spring preload and rebound and
@@ -270,8 +263,7 @@ outlet, and have some (I used zip ties) to support the subframe while
 the shock is out.
 
 
-Handlebars and Risers
-=====================
+# Handlebars and Risers
 
 [![Picture of SSR SR250S triple clamp](small_handlebar.jpg)](handlebar.jpg)
 
@@ -287,8 +279,7 @@ ball-end hex wrench may be able to do the job, but since the throttle
 cable is too short anyway, I'm not going to bother.
 
 
-Shifter
-=======
+# Shifter
 
 [![Picture of SSR SR250S shifter](small_shifter.jpg)](shifter.jpg)
 
@@ -302,8 +293,7 @@ this measurement let me know, I'll take it off and get a more
 accurate measure.
 
 
-Plastics
-========
+# Plastics
 
 I haven't determined whether the SR250S plastics are a match with the
 CRF, but I've got a couple of photos that might prove useful:
@@ -313,22 +303,19 @@ CRF, but I've got a couple of photos that might prove useful:
 [![Picture of the SSR SR250S Side Tank Plastic](small_side_plastic.jpg)](side_plastic.jpg)
 
 
-Wiring Diagram
-==============
+# Wiring Diagram
 
 Available [here](XZ250R_Wiring_Schematic.pdf)
 
 
-Other Parts
-===========
+# Other Parts
 
 [TBolt USA](http://tboltusa.com/store/full-size-dirt-bikes-c-520.html)
 carries levers and misc parts. They're helpful on the forums so I plan
 to buy from them when I can.
 
 
-Useful Links
-============
+# Useful Links
 
 * [Cyclemax USA](http://www.cyclemaxusa.com/) my SSR dealer in Gaithersburg, MD. Really nice Folks.
 * [Chinese Thumpers thread at advrider.com]("http://advrider.com/index.php?threads/chinese-thumpers.1142065/")
